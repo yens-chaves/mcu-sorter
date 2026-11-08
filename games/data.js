@@ -4,9 +4,9 @@ window.MCU_GAMES_DATA={
   "characters": [
     {
       "id": "tony",
-      "name": "Tony Stark",
-      "debut": "Iron Man",
-      "year": 2010,
+    "name": "Tony Stark",
+    "debut": "Iron Man",
+    "year": 2008,
       "species": "Humano",
       "team": "Avengers",
       "power": "Tecnología",
